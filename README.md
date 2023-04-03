@@ -1,16 +1,11 @@
-# covid_tracker
+# Covid-19 Tracker App
 
-A new Flutter project.
+This is simple Covid-19 Tracker App. This app gives us information in Covid News worldwide. Mainly, I had foucsed to intregate api this app for getting all data.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Covid](https://user-images.githubusercontent.com/88571561/229594581-8020e241-650b-4185-9098-78aa7fea9f06.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Somrat-H](https://www.github.com/Somrat-H)
